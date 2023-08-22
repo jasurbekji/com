@@ -1,0 +1,112 @@
+.top{
+    margin-top: 90px;
+}
+body{
+    margin: auto;
+text-align: center;
+width: 800px;
+}
+img{
+    border-radius: 5px;
+}
+.salom{
+    float: left;
+}
+.hayr{
+
+}
+.car{
+    margin-top: 180px;
+}
+.tel{
+    float: left;
+}
+.yurak{
+    margin-top: 300px;
+    position: relative;
+    top: 50px;
+}
+.bold{
+    float: right;
+}
+.bottle{
+ 
+}
+.oyna{
+    margin-top: 250px;
+}
+.laptop{
+    float: left;
+}
+.hello{
+float: right;
+}
+.desk{
+    margin-top: 350px;
+    position: relative;
+    top: 200px;
+}
+.case{
+    position: relative;
+    top: 100px;
+}
+.doska{
+    margin-top: 200px;
+    position: relative;
+    top: 50px;
+}
+a{
+    text-decoration: none;
+}
+
+.key{
+    position: relative;
+    top: 50px;
+}
+.jello{
+    position: relative;
+    top: 50px;
+}
+.sello{
+    position: relative;
+    top: 50px;
+}
+.clever{
+position: relative;
+top: 100px;
+}
+.clear_fix{
+    clear: both;
+}
+.hp{
+    position: relative;
+    top: 100px;
+}
+.bag{
+    position: relative;
+    top: 100px;
+}
+.screen{
+    position: relative;
+    top: 50px;
+}
+
+.zor{
+    position: relative;
+    top: 50px;
+}
+.kuch{
+    position: relative;
+    top: 50px;
+}
+.boy{
+    position: relative;
+    bottom: 100px;
+}
+.case{
+    position: relative;
+    top: -90px;
+}
+p{
+    color: rgb(105, 108, 117);
+}
